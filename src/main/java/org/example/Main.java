@@ -28,7 +28,7 @@ public class Main {
         Thread.sleep(15000);
 
         //Email login
-        driver.findElement(By.id("ap_email")).sendKeys(".2022@gmail.com");
+        driver.findElement(By.id("ap_email")).sendKeys("");
         driver.findElement(By.id("continue")).click();
 
         //Creating the set and switching windows
