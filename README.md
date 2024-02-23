@@ -6,7 +6,7 @@ Code Overview
 
     The program launches a Chrome WebDriver instance and navigates to the Amazon login page.
     It waits for the user to manually input their email and password for authentication.
-    After successful login, it searches for a specific product ("Tozo T10") and adds it to the cart.
+    After successful login, it searches for a specific product and adds it to the cart.
     Finally, it proceeds to the checkout page before closing the browser.
 
 Method Explanation
